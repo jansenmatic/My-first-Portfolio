@@ -327,6 +327,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 400px;
     background-image: url('/M_Visionary-14.jpg'); /* Replace this */
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
     border-radius: 12px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
